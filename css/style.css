@@ -24,22 +24,74 @@
   to{opacity: 1;}
 }
 
-.TheFinalThingYouSee{
+.Arden{
   animation-name: paulsface;
   animation-delay: 0.5s;
   animation-duration: 5s;
   border-radius: 50%;
   width: 25%;
 }
+.app{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.button{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.game{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.game2{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.owo{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.settings{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.text{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
+.text2{
+  animation-name: paulsface;
+  animation-delay: 0.5s;
+  animation-duration: 5s;
+}
+
 .center{
- text-align: center;
- display: block;
- margin: 0 auto;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 h1{
  color: #A12C2B;
-
 }
+
+h3{
+  color: #A12C2B;
+}
+
 
 p1{
   font-family: 'Ubuntu', sans-serif;
